@@ -1,0 +1,50 @@
+.body {
+    background-color: #3b444b;
+}
+
+.heading {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 110px;
+}
+
+.heading1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.projects {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.project_heading, .contact_heading {
+    color: white;
+    font-weight: bold;
+}
+
+#project_description1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#project_description2 {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#project_description3 {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.contact_details {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
